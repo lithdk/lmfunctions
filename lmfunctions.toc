@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: lmfucntions
+## Version: 0.1
+## Notes: Class functions for multiboxing ezness
+## Author: Lirrian
+## SavedVariables: lmfunctionsVariables
+lmfunctions.lua
+lmfunctions.xml
